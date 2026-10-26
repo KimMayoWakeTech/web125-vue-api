@@ -10,6 +10,6 @@ git init
 git add -A
 git commit -m 'New Deployment'
 
-git push -f git@github.com:KimMayoWakeTech/web125-vue-api.git master:gh-pages
+git push -f https://github.com/KimMayoWakeTech/web125-vue-api.git master:gh-pages
 
 cd -
